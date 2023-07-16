@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+q{
+  font-weight: 800;
+  font-size: 2rem;
+}
+address{
+  font-size: 1rem;
+  font-weight: 500;
+}
+.functions{
+  display: flex;
+  justify-content: space-around;
+}
+#tweet-quote{
+  width:3rem;
+}
+i{
+  font-size: 2rem;
+}
+a{
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 7px;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
